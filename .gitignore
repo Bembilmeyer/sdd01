@@ -1,2 +1,6 @@
 .agents/
 .specify/
+codex*
+AGENTS.MD
+docs/
+.specs/
