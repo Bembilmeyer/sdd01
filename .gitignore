@@ -4,3 +4,16 @@ codex*
 AGENTS.MD
 docs/
 .specs/
+bin/
+obj/
+packages/
+TestResults/
+.tmp/
+*.user
+*.suo
+*.swp
+*.tmp
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
